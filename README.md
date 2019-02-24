@@ -15,7 +15,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 
 #### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
 
-## План проекта (ссылки на некоторые темы открыты для просмотра)
+## План проекта
 ### Архитектура проекта. Персистентность.
 -  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s">Системы управления версиями</a>
 -  <a href="http://www.youtube.com/watch?v=_PDIVhEs6TM">Java 8: Lambda</a>, Stream API
