@@ -1,4 +1,4 @@
-#### Разработка полнофункционального Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей с использованием <a href="https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/" target="_blank">наиболее популярных инструментов и технологий Java</a>: Maven, Spring MVC, JPA(Hibernate), REST(Jackson), Java 8 Stream and Time API и сохранением в базах данных Postgresql и HSQLDB.
+#### Разработка полнофункционального Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей с использованием наиболее популярных инструментов и технологий Java</a>: Maven, Spring MVC, JPA(Hibernate), REST(Jackson), Java 8 Stream and Time API и сохранением в базах данных Postgresql и HSQLDB.
 
 -  Основное внимание будет уделяться способам решения многочисленных проблем разработки в Spring/JPA, а также структурному (красивому и надежному) java кодированию и архитектуре приложения.
 -  Каждая итерация проекта закрепляется домашним заданием по реализации схожей функциональности. Следующее занятие начинается с разбора домашних заданий.
@@ -17,27 +17,27 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 
 ## План проекта
 ### Архитектура проекта. Персистентность.
--  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s">Системы управления версиями</a>
--  <a href="http://www.youtube.com/watch?v=_PDIVhEs6TM">Java 8: Lambda</a>, Stream API
+-  Системы управления версиями
+-  Java 8: Lambda, Stream API
 -  Обзор используемых в проекте технологий и инструментов.
--  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFSlZMTXBJRXJpakU">Инструмент сборки Maven.</a>
+-  Инструмент сборки Maven.
 -  WAR. Веб-контейнер Tomcat. Сервлеты.
 -  Логирование.
 -  Обзор стандартных библиотек. Apache Commons, Guava
 -  Слои приложения. Создание каркаса приложения.
 -  Обзор Spring Framework. Spring Context.
 -  Тестирование через JUnit.
--  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFai1veG9qaFZlZ2s/view">Spring Test</a>
+-  Spring Test
 -  Базы данных. PostgreSQL. Обзор NoSQL и Java persistence solution без ORM.
 -  Настройка Database в IDEA.
 -  Скрипты инициализации базы. Spring Jdbc Template.
--  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFU0Z2R190eDllYmM/view">Spring: инициализация и популирование DB</a>
+-  Spring: инициализация и популирование DB
 -  ORM. Hibernate. JPA.
-- [Тестирование JPA сервиса через AssertJ](https://www.youtube.com/watch?v=BlyaXT6tOaw)
+-  Тестирование JPA сервиса через AssertJ
 -  Поддержка HSQLDB
 -  Транзакции
 -  Профили Maven и Spring
--  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTWJOdHduOWtNcTA">Пул коннектов</a>
+-  Пул коннектов
 -  Spring Data JPA
 -  Кэш Hibernate
 
